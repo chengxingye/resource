@@ -1,0 +1,25 @@
+{
+  "name": "resourcers",
+  "version": "1.0.2",
+  "description": "Tiny NodeJs web Server",
+  "main": "index.js",
+  "bin": {
+    "resource": "bin/resource"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengxingye/resource.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengxingye/resource/issues"
+  },
+  "homepage": "https://github.com/chengxingye/resource#readme",
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  }
+}

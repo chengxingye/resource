@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/chengxingye/resource#readme",
   "dependencies": {
-    "handlebars": "^4.0.11"，
+    "handlebars": "^4.0.11",
     "yargs": "^10.1.1"
   }
 }
